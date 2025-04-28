@@ -17,4 +17,4 @@ function sortedSquares(nums: number[]): number[] {
         sortedSquares[i] = num * num;
     }
     return sortedSquares;
-};
+}
