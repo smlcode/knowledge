@@ -1,3 +1,4 @@
+//Use of js Array built-in object's sort method.
 function sortedSquares(nums: number[]): number[] {
 
     let i = 0;
