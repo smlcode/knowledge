@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/core/design-pattern/abstract-factory/ui-elements/abstract-factory-ui-elements/abstract-factory-ui-elements.iml" filepath="$PROJECT_DIR$/core/design-pattern/abstract-factory/ui-elements/abstract-factory-ui-elements/abstract-factory-ui-elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/design-pattern/factory/ui-elements/factory-ui-elements/factory-ui-elements.iml" filepath="$PROJECT_DIR$/core/design-pattern/factory/ui-elements/factory-ui-elements/factory-ui-elements.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/knowledge.iml" filepath="$PROJECT_DIR$/.idea/knowledge.iml" />
     </modules>
   </component>
