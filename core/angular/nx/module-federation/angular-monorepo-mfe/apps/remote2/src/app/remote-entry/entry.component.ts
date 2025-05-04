@@ -4,7 +4,7 @@ import { NxWelcomeComponent } from './nx-welcome.component';
 
 @Component({
   imports: [CommonModule, NxWelcomeComponent],
-  selector: 'app-flow1-entry',
+  selector: 'app-remote2-entry',
   template: `<app-nx-welcome></app-nx-welcome>`,
 })
 export class RemoteEntryComponent {}

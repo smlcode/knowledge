@@ -17,7 +17,9 @@
     "paths": {
       "flow1/Routes": ["apps/flow1/src/app/remote-entry/entry.routes.ts"],
       "flow2/Routes": ["apps/flow2/src/app/remote-entry/entry.routes.ts"],
-      "home/Routes": ["apps/home/src/app/remote-entry/entry.routes.ts"]
+      "home/Routes": ["apps/home/src/app/remote-entry/entry.routes.ts"],
+      "remote1/Routes": ["apps/remote1/src/app/remote-entry/entry.routes.ts"],
+      "remote2/Routes": ["apps/remote2/src/app/remote-entry/entry.routes.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

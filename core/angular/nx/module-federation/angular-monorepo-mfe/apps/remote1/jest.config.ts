@@ -1,8 +1,8 @@
 export default {
-  displayName: 'flow1',
+  displayName: 'remote1',
   preset: '../../jest.preset.js',
   setupFilesAfterEnv: ['<rootDir>/src/test-setup.ts'],
-  coverageDirectory: '../../coverage/apps/flow1',
+  coverageDirectory: '../../coverage/apps/remote1',
   transform: {
     '^.+\\.(ts|mjs|js|html)$': [
       'jest-preset-angular',

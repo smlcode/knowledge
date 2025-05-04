@@ -98,6 +98,5 @@
         "spa": true
       }
     }
-  },
-  "implicitDependencies": ["home", "flow1"]
+  }
 }

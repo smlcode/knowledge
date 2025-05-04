@@ -1,9 +1,9 @@
 import { ModuleFederationConfig } from '@nx/module-federation';
 
 const config: ModuleFederationConfig = {
-  name: 'flow1',
+  name: 'remote1',
   exposes: {
-    './Routes': 'apps/flow1/src/app/remote-entry/entry.routes.ts',
+    './Routes': 'apps/remote1/src/app/remote-entry/entry.routes.ts',
   },
 };
 

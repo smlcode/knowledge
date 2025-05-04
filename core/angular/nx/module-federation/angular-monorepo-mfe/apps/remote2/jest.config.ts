@@ -1,8 +1,8 @@
 export default {
-  displayName: 'home',
+  displayName: 'remote2',
   preset: '../../jest.preset.js',
   setupFilesAfterEnv: ['<rootDir>/src/test-setup.ts'],
-  coverageDirectory: '../../coverage/apps/home',
+  coverageDirectory: '../../coverage/apps/remote2',
   transform: {
     '^.+\\.(ts|mjs|js|html)$': [
       'jest-preset-angular',
