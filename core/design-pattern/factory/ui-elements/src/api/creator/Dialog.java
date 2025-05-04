@@ -4,9 +4,6 @@ import api.product.Button;
 
 public abstract class Dialog {
 
-    String title;
-    String body;
-
     //Factory method
     public abstract Button createButton();
 
@@ -23,21 +20,5 @@ public abstract class Dialog {
         Button button = createButton();
         button.render();
         button.onClick();
-    };
-
-    public String getTitle() {
-        return title;
-    }
-
-    public void setTitle(String title) {
-        this.title = title;
-    }
-
-    public String getBody() {
-        return body;
-    }
-
-    public void setBody(String body) {
-        this.body = body;
     }
 }
